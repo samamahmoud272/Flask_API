@@ -150,6 +150,6 @@ docker compose up --build
 
 ## Test API Endpoints
 
-- Deployed version: https://flask-api-app.vercel.app/[endpoint]
+- Deployed version: https://flask-api-rho-ashen.vercel.app/[endpoint]
 - For docker: Once the containers are up, the API should be accessed on http://localhost:8080/[endpoint]
 - Local flask run: http://127.0.0.1:5000/[endpoint]
